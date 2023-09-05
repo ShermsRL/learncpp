@@ -1,0 +1,3 @@
+﻿2023-09-05 13:18:10.971 DEBUG [10400] [main@24] main() called
+2023-09-05 13:18:10.981 DEBUG [10400] [getValue@16] getUsertInput() called
+2023-09-05 14:54:28.969 DEBUG [7820] [main@24] main() called
